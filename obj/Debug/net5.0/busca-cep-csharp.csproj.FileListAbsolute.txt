@@ -1,0 +1,15 @@
+D:\ghr-pessoal\busca-cep-csharp\bin\Debug\net5.0\busca-cep-csharp.exe
+D:\ghr-pessoal\busca-cep-csharp\bin\Debug\net5.0\busca-cep-csharp.deps.json
+D:\ghr-pessoal\busca-cep-csharp\bin\Debug\net5.0\busca-cep-csharp.runtimeconfig.json
+D:\ghr-pessoal\busca-cep-csharp\bin\Debug\net5.0\busca-cep-csharp.runtimeconfig.dev.json
+D:\ghr-pessoal\busca-cep-csharp\bin\Debug\net5.0\busca-cep-csharp.dll
+D:\ghr-pessoal\busca-cep-csharp\bin\Debug\net5.0\ref\busca-cep-csharp.dll
+D:\ghr-pessoal\busca-cep-csharp\bin\Debug\net5.0\busca-cep-csharp.pdb
+D:\ghr-pessoal\busca-cep-csharp\obj\Debug\net5.0\busca-cep-csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ghr-pessoal\busca-cep-csharp\obj\Debug\net5.0\busca-cep-csharp.AssemblyInfoInputs.cache
+D:\ghr-pessoal\busca-cep-csharp\obj\Debug\net5.0\busca-cep-csharp.AssemblyInfo.cs
+D:\ghr-pessoal\busca-cep-csharp\obj\Debug\net5.0\busca-cep-csharp.csproj.CoreCompileInputs.cache
+D:\ghr-pessoal\busca-cep-csharp\obj\Debug\net5.0\busca-cep-csharp.dll
+D:\ghr-pessoal\busca-cep-csharp\obj\Debug\net5.0\ref\busca-cep-csharp.dll
+D:\ghr-pessoal\busca-cep-csharp\obj\Debug\net5.0\busca-cep-csharp.pdb
+D:\ghr-pessoal\busca-cep-csharp\obj\Debug\net5.0\busca-cep-csharp.genruntimeconfig.cache
