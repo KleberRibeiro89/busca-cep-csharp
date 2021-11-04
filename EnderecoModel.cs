@@ -8,7 +8,7 @@ namespace busca_cep_csharp
 {
     public class EnderecoModel
     {
-        public string cep { get; set; }
+        public string cep { get; private set; }
 
         public string logradouro { get; set; }
 
